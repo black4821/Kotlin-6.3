@@ -1,7 +1,7 @@
-TrackMySleepQuality - Starter Code for 6.3 Recording Quality & Button States
+TrackMySleepQuality - Final Code for 6.3 Recording Quality & Button States
 ============================================================================
 
-Starter code for Android Kotlin Fundamentals Codelab 6.3 Recording Quality & Button States
+Solution code for Android Kotlin Fundamentals Codelab 6.3 Recording Quality & Button States
 
 Introduction
 ------------
@@ -9,9 +9,10 @@ Introduction
 TrackMySleepQuality is an app for recording sleep data for each night. 
 You can record a start and stop time, assign a quality rating, and clear the database. 
 
-In this codelab, working from this starter app, you will:
-* Extend the TrackMySleepQuality app to collect a quality rating, add it to the database and display the result.
-* Use LiveData to trigger showing of a snackbar. 
+In this codelab, working from this starter app, you:
+
+* Extended the TrackMySleepQuality app to collect a quality rating, add it to the database and display the result.
+* Usedd LiveData to trigger showing of a snackbar. 
 * Use LiveData to enable and disable buttons.
 
 
